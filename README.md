@@ -21,4 +21,4 @@ A backend-based PDF Reader application built using Python that processes PDF fil
 ## 🚀 How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/VeeB-dev/pdf_reader_website.git
+   git clone https://github.com/VeeB-dev/pdf_reader_website
